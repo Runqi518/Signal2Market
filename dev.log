@@ -1,0 +1,34 @@
+
+> signal-to-market@0.1.0 dev
+> next dev -p 3030
+
+   ▲ Next.js 15.5.25
+   - Local:        http://localhost:3030
+   - Network:      http://172.16.0.115:3030
+   - Environments: .env.local, .env.development, .env
+
+ ✓ Starting...
+ ✓ Ready in 3.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 682ms (611 modules)
+ GET / 200 in 1098ms
+ ✓ Compiled /api/analyze in 478ms (645 modules)
+ POST /api/analyze 200 in 50075ms
+ ✓ Compiled in 970ms (612 modules)
+ ✓ Compiled in 600ms (612 modules)
+ ✓ Compiled in 622ms (610 modules)
+ ✓ Compiled in 391ms (610 modules)
+ ✓ Compiled in 397ms (610 modules)
+ ✓ Compiled in 264ms (610 modules)
+ ✓ Compiled in 94ms (609 modules)
+ ✓ Compiled in 131ms (609 modules)
+ ✓ Compiled /api/analyze in 224ms (643 modules)
+ POST /api/analyze 200 in 17533ms
+ GET / 200 in 376ms
+ POST /api/analyze 200 in 92252ms
+ GET / 200 in 581ms
+ ✓ Compiled in 11.4s (610 modules)
+ ✓ Compiled in 339ms (610 modules)
+ ✓ Compiled in 177ms (610 modules)
+ ✓ Compiled in 750ms (618 modules)
+ ✓ Compiled in 285ms (618 modules)
