@@ -8,4 +8,4 @@
 3. **6 位营销大师 Agent (Campaigns)**：内置 6 种不同的世界级营销方法论 Agent（如注重科学测试的 Claude Hopkins、注重卖点提取的 Rosser Reeves 等），结合当前用户资产一键生成立等可落地的全案营销草稿（涵盖核心钩子、Offer 设计、测试假设及成功指标）。
 4. **增长实验回流 (Experiments)**：为 Campaign 创建真实的市场验证实验，依据最低样本量监控 CTR 及各类转化率表现。
 
-<img width="100%" alt="Signal to Market UI" src="https://chat.xiaohongshu.com/api/file/99ebcd91-236b-4e89-bdc9-ec64c5d5e54d/image.jpeg?size=1792x1008">
+<img width="100%" alt="Signal to Market UI" src="./public/screenshot.jpg">
